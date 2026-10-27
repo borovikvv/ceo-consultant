@@ -1,0 +1,10 @@
+# Данные и секреты CEO — только на его ноутбуке, никогда в git
+private/
+.env
+*.session
+data/
+*.db
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
